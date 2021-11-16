@@ -1,4 +1,4 @@
-import '../../public/index.css';
+import '../app.css';
 
 function Awards() {
   return (

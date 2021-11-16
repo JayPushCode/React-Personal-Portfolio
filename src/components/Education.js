@@ -1,4 +1,5 @@
-import '../../public/index.css';
+import '../app.css';
+
 
 function Education() {
   return (

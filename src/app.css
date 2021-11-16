@@ -1,3 +1,15 @@
+@charset "UTF-8";
+/*!
+* Start Bootstrap - Resume v7.0.3 (https://startbootstrap.com/theme/resume)
+* Copyright 2013-2021 Start Bootstrap
+* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE)
+*/
+/*!
+ * Bootstrap v5.1.0 (https://getbootstrap.com/)
+ * Copyright 2011-2021 The Bootstrap Authors
+ * Copyright 2011-2021 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+ */
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
@@ -11408,7 +11420,6 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
-
 /*  */
 
 .ProjectTemplate {
@@ -11418,7 +11429,7 @@ section.resume-section .resume-section-content {
   border: 0px inset gray;
   border-radius: 16px;
   flex: 1 1 50%;
-  background-image: url("../public/Projects/Comingsoon.png");
+  background-image: url("./Projects/Comingsoon.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat; 
@@ -11430,24 +11441,24 @@ section.resume-section .resume-section-content {
 
 #Project1 {
   flex: 1 1 100%;
-  background-image: url("../public/Projects/Feedit.png");
+  background-image: url("./Projects/Feedit.png");
   background-size: cover;
     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 3px;
 }
 .sample-img2 {
-  background-image: url("../public/Projects/refactor.png");
+  background-image: url("./Projects/refactor.png");
     filter:blur(2px);
 }
 .sample-img3 {
-  background-image: url("../public/Projects/password.png");
+  background-image: url("./Projects/password.png");
     filter:blur(2px);
 }
 .sample-img4 {
-  background-image: url("../public/Projects/schedule.gif");
+  background-image: url("./Projects/schedule.gif");
     filter:blur(2px);
 }
 .sample-img5 {
-  background-image: url("../public/Projects/odingquiz.png");
+  background-image: url("./Projects/odingquiz.png");
     filter:blur(2px);
 }
 
