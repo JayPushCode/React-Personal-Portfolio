@@ -39,19 +39,19 @@ function Skills() {
       <div className="subheading mb-3">Workflow</div>
       <ul className="fa-ul mb-0">
         <li>
-          <span className="fa-li"><i className="fas fa-check" /></span>
+          <span className="fa-li"><i className="fas fa-check" /></span>&nbsp;
           Mobile-First, Responsive Design
         </li>
         <li>
-          <span className="fa-li"><i className="fas fa-check" /></span>
+          <span className="fa-li"><i className="fas fa-check" /></span>&nbsp;
           Google Analytics &amp; SEO Optimization
         </li>
         <li>
-          <span className="fa-li"><i className="fas fa-check" /></span>
+          <span className="fa-li"><i className="fas fa-check" /></span>&nbsp;
           Bootstrap &amp; Custom CSS Front-End Development
         </li>
         <li>
-          <span className="fa-li"><i className="fas fa-check" /></span>
+          <span className="fa-li"><i className="fas fa-check" /></span>&nbsp;
           Agile Web Development Method
         </li>
       </ul>

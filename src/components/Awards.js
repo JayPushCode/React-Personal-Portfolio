@@ -10,23 +10,23 @@ function Awards() {
       <h2 className="mb-5">Awards &amp; Certifications</h2>
       <ul className="fa-ul mb-0">
         <li>
-          <span className="fa-li"><i className="fas fa-trophy text-warning" /></span>
+          <span className="fa-li"><i className="fas fa-trophy text-warning" /></span>&nbsp;
           BB&amp;T Emerging Leaders Certification
         </li>
         <li>
-          <span className="fa-li"><i className="fas fa-trophy text-warning" /></span>
+          <span className="fa-li"><i className="fas fa-trophy text-warning" /></span>&nbsp;
           IBM Watson Data Analytics
         </li>
         <li>
-          <span className="fa-li"><i className="fas fa-trophy text-warning" /></span>
+          <span className="fa-li"><i className="fas fa-trophy text-warning" /></span>&nbsp;
           Pearson Microsoft Excel Introductory Certification
         </li>
         <li>
-          <span className="fa-li"><i className="fas fa-trophy text-warning" /></span>
+          <span className="fa-li"><i className="fas fa-trophy text-warning" /></span>&nbsp;
           Pearson Microsoft Excel Advanced Certification
         </li>
         <li>
-          <span className="fa-li"><i className="fas fa-trophy text-warning" /></span>
+          <span className="fa-li"><i className="fas fa-trophy text-warning" /></span>&nbsp;
           Trilogy Web Development Full-Stack Bootcamp
         </li>
       </ul>

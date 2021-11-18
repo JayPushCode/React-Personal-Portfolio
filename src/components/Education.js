@@ -12,8 +12,8 @@ function Education() {
       <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div className="flex-grow-1">
           <h3 className="mb-0">East Carolina University</h3>
-          <div className="subheading mb-3">Bachelor of Science</div>
-          <div>College of Business - Business Management</div>
+          <div className="subheading mb-3">Bachelor of Science - Business Management</div>
+          {/* <div>College of Business - Business Management</div> */}
           {/*                            <p>GPA: 3.23</p>*/}
         </div>
         <div className="flex-shrink-0"><span className="text-primary">August 2014 - December 2019</span></div>

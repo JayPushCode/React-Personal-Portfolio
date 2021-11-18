@@ -7,7 +7,7 @@ function About() {
   <section className="resume-section" id="about">
     <div className="resume-section-content">
       <h1 className="mb-0">
-        Wongani F.
+        Wongani F. &nbsp;
         <span className="text-primary">Jere</span>
       </h1>
       <div className="subheading mb-5">
