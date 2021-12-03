@@ -1,4 +1,4 @@
-@charset "UTF-8";
+@charSet "UTF-8";
 /*!
 * Start Bootstrap - Resume v7.0.3 (https://startbootstrap.com/theme/resume)
 * Copyright 2013-2021 Start Bootstrap
@@ -11426,9 +11426,8 @@ section.resume-section .resume-section-content {
   width: 100%;
   padding: 20px;
   height: 200px;
-  border: 0px inset gray;
-  border-radius: 16px;
-  flex: 1 1 50%;
+  border: 3px solid #4F4F4F;
+  border-radius: 38px;
   background-image: url("./Projects/Comingsoon.png");
   background-size: cover;
   background-position: center;
@@ -11440,17 +11439,17 @@ section.resume-section .resume-section-content {
 }
 
 #Project1 {
-  flex: 1 1 100%;
+  /* flex: 1 1 100%; */
   background-image: url("./Projects/Feedit.png");
   background-size: cover;
     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 3px;
 }
 .sample-img2 {
-  background-image: url("./Projects/refactor.png");
+  background-image: url("./Projects/applitrak.png");
     filter:blur(2px);
 }
 .sample-img3 {
-  background-image: url("./Projects/password.png");
+  background-image: url("./Projects/besaprojectlogo.png");
     filter:blur(2px);
 }
 .sample-img4 {
@@ -11463,21 +11462,12 @@ section.resume-section .resume-section-content {
 }
 
 .ProjectTemplate:hover {
-  transform: scale(1.04);
+  transform: scale(1.06);
   filter:blur(0px);
     
 }
  
-#Portfolio-work {
-  flex: 1 1 35%;
-  padding: 20px;
-  color: white;
 
-}
-#Portfolio-work p{
-  line-height: 3;
-  line-break:auto;
-}
 #Portfolio-work {
   display: flex;
   flex-wrap: wrap;
@@ -11485,13 +11475,26 @@ section.resume-section .resume-section-content {
   gap: 30px 10px;
 
 }
+@media only screen and (max-width: 990px) {
+  #Portfolio-work {
+    flex-direction: column;
+
+  }
+  #Portfolio-work a {
+    flex: 1 1 200px !important;
+  }
+}
+
 #Portfolio-work a {
   text-align: center;
   color: white;
-  font-size: 2em;
+  font-size: 1.5em;
   align-self: center;
   text-shadow: 2px 2px 4px #000000;
   filter:blur(0px);
   vertical-align: middle;
   align-items: center;
+  flex: 1 1 10%;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+
 }
