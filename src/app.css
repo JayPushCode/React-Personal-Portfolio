@@ -11498,3 +11498,10 @@ section.resume-section .resume-section-content {
   font-family:Verdana, Geneva, Tahoma, sans-serif
 
 }
+
+#skillsList{
+  columns: 3;
+}
+#skillsList li {
+  margin-bottom: .5em;
+}
