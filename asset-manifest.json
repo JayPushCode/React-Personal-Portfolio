@@ -1,22 +1,20 @@
 {
   "files": {
-    "main.css": "/React-Personal-Portfolio-2021/static/css/main.53e549f0.chunk.css",
-    "main.js": "/React-Personal-Portfolio-2021/static/js/main.df500751.chunk.js",
-    "main.js.map": "/React-Personal-Portfolio-2021/static/js/main.df500751.chunk.js.map",
-    "runtime-main.js": "/React-Personal-Portfolio-2021/static/js/runtime-main.8c76ae86.js",
-    "runtime-main.js.map": "/React-Personal-Portfolio-2021/static/js/runtime-main.8c76ae86.js.map",
-    "static/js/2.c6a9f7a3.chunk.js": "/React-Personal-Portfolio-2021/static/js/2.c6a9f7a3.chunk.js",
-    "static/js/2.c6a9f7a3.chunk.js.map": "/React-Personal-Portfolio-2021/static/js/2.c6a9f7a3.chunk.js.map",
-    "index.html": "/React-Personal-Portfolio-2021/index.html",
-    "static/css/main.53e549f0.chunk.css.map": "/React-Personal-Portfolio-2021/static/css/main.53e549f0.chunk.css.map",
-    "static/js/2.c6a9f7a3.chunk.js.LICENSE.txt": "/React-Personal-Portfolio-2021/static/js/2.c6a9f7a3.chunk.js.LICENSE.txt",
-    "static/media/app.css": "/React-Personal-Portfolio-2021/static/media/schedule.5b3f62cd.gif",
-    "static/media/profile.884a7203.jpg": "/React-Personal-Portfolio-2021/static/media/profile.884a7203.jpg"
+    "main.css": "/static/css/main.239a391e.css",
+    "main.js": "/static/js/main.44be645c.js",
+    "static/media/applitrak.png": "/static/media/applitrak.6c34c546293299243737.png",
+    "static/media/Feedit.png": "/static/media/Feedit.840da1803a1dbd3797eb.png",
+    "static/media/schedule.gif": "/static/media/schedule.5b3f62cdcc4cafa34102.gif",
+    "static/media/besaprojectlogo.png": "/static/media/besaprojectlogo.b2b43ddebfe2f33b8602.png",
+    "static/media/Comingsoon.png": "/static/media/Comingsoon.95d6ff686740a1a59b4c.png",
+    "static/media/odingquiz.png": "/static/media/odingquiz.96f7db69e418de4a9235.png",
+    "static/media/profile.jpg": "/static/media/profile.884a7203f88bc79c956a.jpg",
+    "index.html": "/index.html",
+    "main.239a391e.css.map": "/static/css/main.239a391e.css.map",
+    "main.44be645c.js.map": "/static/js/main.44be645c.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.8c76ae86.js",
-    "static/js/2.c6a9f7a3.chunk.js",
-    "static/css/main.53e549f0.chunk.css",
-    "static/js/main.df500751.chunk.js"
+    "static/css/main.239a391e.css",
+    "static/js/main.44be645c.js"
   ]
 }
