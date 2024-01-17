@@ -18,7 +18,7 @@ function App() {
   useEffect(() => {
     const script = document.createElement('script');
   
-    script.src = "https://use.fontawesome.com/releases/v5.15.3/js/all.js";
+    script.src = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/js/all.min.js";
     script.async = true;
   
     document.body.appendChild(script);
