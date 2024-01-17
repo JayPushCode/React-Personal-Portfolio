@@ -14,12 +14,12 @@ function About() {
         Content Creater · Producer · Web Developer ·
         <a href="mailto:name@email.com">jaypushcode@gmail.com</a>
       </div>
-      <p className="lead mb-5">I am an aspiring Full Stack Developer with a background in Music Production, Photography, and Filmmaking and Event Planning. I hope to sharpen my skills within the browser to create websites and applications that can further the crafts of many like-minded artists in the industries I have been apart of. I want to turn as many concepts as possible and to push the scope of what's imaginable on the internet.</p>
+      <p className="lead mb-5">I am a Full Stack Developer with a background in Music Production, Photography, Filmmaking, and Event Planning. I hope to sharpen my skills within the browser to create websites and applications that can further the crafts of many like-minded artists in the industries I have been a part of. I want to turn as many concepts as possible into reality and push the scope of what's imaginable on the internet.</p>
       <div className="social-icons">
         <a className="social-icon" href="http://www.linkedin.com/in/wonganifjere" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin-in"title="LinkedIn" /></a>
         <a className="social-icon" href="http://www.github.com/jaypushcode" target="_blank" rel="noopener noreferrer"><i className="fab fa-github"title="GitHub" /></a>
-        <a className="social-icon" href="https://www.instagram.com/jaypushfaders/" target="_blank" rel="noopener noreferrer" ><i className="fab fa-instagram" title="Instagram"/></a>
-        <a className="social-icon" href="https://twitter.com/JayPushFaders" target="_blank" rel="noopener noreferrer"><i className="fab fa-twitter"title="Twitter" /></a>
+        <a className="social-icon" href="https://www.instagram.com/jaypushcode/" target="_blank" rel="noopener noreferrer" ><i className="fab fa-instagram" title="Instagram"/></a>
+        <a className="social-icon" href="https://twitter.com/JayPushCode" target="_blank" rel="noopener noreferrer"><i className="fab fa-twitter"title="Twitter" /></a>
       </div>
     </div>
   </section>
