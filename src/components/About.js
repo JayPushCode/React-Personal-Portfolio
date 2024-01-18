@@ -22,7 +22,7 @@ function About() {
         <a className="social-icon" href="https://www.instagram.com/jaypushcode/" target="_blank" rel="noopener noreferrer" ><i className="fab fa-instagram" title="Instagram"/></a>
         <a className="social-icon" href="https://twitter.com/JayPushCode" target="_blank" rel="noopener noreferrer"><i className="fab fa-twitter"title="Twitter" /></a>
       </div>
-      <a href='/2024_WFJ_Resume.pdf' target='_blank' download="Resume_WFJ_2024.pdf">
+      <a href={process.env.PUBLIC_URL + '/2024_WFJ_Resume.pdf'} target='_blank' download="Resume_WFJ_2024.pdf">
       <button> Download My Resume</button>
       </a>
       </div>
