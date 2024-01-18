@@ -11505,3 +11505,17 @@ section.resume-section .resume-section-content {
 #skillsList li {
   margin-bottom: .5em;
 }
+
+#aboutMeSection {
+display: flex;    
+justify-content: space-between;
+align-items: center;
+}
+
+#aboutMeSection button {
+  background-color: rgba(var(--bs-primary-rgb));
+  color: white;
+  padding: 0.5em 1em;
+  border-radius: 3em;
+  margin-right: 1em;
+}
