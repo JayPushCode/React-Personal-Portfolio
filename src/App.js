@@ -38,15 +38,13 @@ function App() {
           <Experience />
   
           <Education />
-    
+
+          <Awards />
+
           <Skills />
    
           <Projects />
    
-          <Awards />
-      
-
-     
       <div> <Footer /> </div>
     </div>
   );
