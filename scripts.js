@@ -32,3 +32,9 @@ window.addEventListener('DOMContentLoaded', event => {
     });
 
 });
+// Fixing sidebar highlighting
+$(document).ready(function() {
+    $('#navbarResponsive').on('click', function() {
+      $('#sidebar').toggleClass('active');
+    });
+  });
