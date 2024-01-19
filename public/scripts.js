@@ -6,6 +6,7 @@
 //
 // Scripts
 // 
+console.log("loaded script")
 
 window.addEventListener('DOMContentLoaded', event => {
 
