@@ -38,9 +38,13 @@ $(document).ready(function() {
       $('#sidebar').toggleClass('active');
     });
   
-    // Semi Fixing Scroll Menu Functionality
+    // Fixing mobile scroll menu hang / desktop menu glitches
     $(".nav-item").click(function(){
-        $('.navbar-toggler').click();
+        if ($('.navbar-toggler').css('display') == 'none'){
+        } else {
+            $('.navbar-toggler').click();
+        }
+        
 }
 )
 });
