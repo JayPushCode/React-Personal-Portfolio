@@ -37,4 +37,11 @@ $(document).ready(function() {
     $('#navbarResponsive').on('click', function() {
       $('#sidebar').toggleClass('active');
     });
-  });
+  
+    // Semi Fixing Scroll Menu Functionality
+    $(".nav-item").click(function(){
+        $('.navbar-toggler').click();
+}
+)
+});
+

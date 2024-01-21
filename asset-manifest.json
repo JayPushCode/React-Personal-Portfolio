@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/React-Personal-Portfolio/static/css/main.de2bb57e.css",
-    "main.js": "/React-Personal-Portfolio/static/js/main.c4b97b56.js",
+    "main.css": "/React-Personal-Portfolio/static/css/main.13d6cc05.css",
+    "main.js": "/React-Personal-Portfolio/static/js/main.9b3b163d.js",
     "static/media/applitrak.png": "/React-Personal-Portfolio/static/media/applitrak.6c34c546293299243737.png",
+    "static/media/ShoeFanatic.png": "/React-Personal-Portfolio/static/media/ShoeFanatic.c002501419ec97e76bda.png",
     "static/media/Feedit.png": "/React-Personal-Portfolio/static/media/Feedit.840da1803a1dbd3797eb.png",
     "static/media/schedule.gif": "/React-Personal-Portfolio/static/media/schedule.5b3f62cdcc4cafa34102.gif",
-    "static/media/besaprojectlogo.png": "/React-Personal-Portfolio/static/media/besaprojectlogo.b2b43ddebfe2f33b8602.png",
     "static/media/Comingsoon.png": "/React-Personal-Portfolio/static/media/Comingsoon.95d6ff686740a1a59b4c.png",
     "static/media/odingquiz.png": "/React-Personal-Portfolio/static/media/odingquiz.96f7db69e418de4a9235.png",
     "static/media/profile.jpg": "/React-Personal-Portfolio/static/media/profile.884a7203f88bc79c956a.jpg",
     "index.html": "/React-Personal-Portfolio/index.html",
-    "main.de2bb57e.css.map": "/React-Personal-Portfolio/static/css/main.de2bb57e.css.map",
-    "main.c4b97b56.js.map": "/React-Personal-Portfolio/static/js/main.c4b97b56.js.map"
+    "main.13d6cc05.css.map": "/React-Personal-Portfolio/static/css/main.13d6cc05.css.map",
+    "main.9b3b163d.js.map": "/React-Personal-Portfolio/static/js/main.9b3b163d.js.map"
   },
   "entrypoints": [
-    "static/css/main.de2bb57e.css",
-    "static/js/main.c4b97b56.js"
+    "static/css/main.13d6cc05.css",
+    "static/js/main.9b3b163d.js"
   ]
 }
