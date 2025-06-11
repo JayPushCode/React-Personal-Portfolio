@@ -11,10 +11,10 @@ function About() {
         <span className="text-primary">Jere</span>
       </h1>
       <div className="subheading mb-5">
-        Content Creater · Producer · Web Developer ·
+        Full-Stack Web Developer · Technical Instructor · Data / Integration Engineer ·
         <a href="mailto:name@email.com">jaypushcode@gmail.com</a>
       </div>
-      <p className="lead mb-5">I am a Full Stack Developer with a background in Music Production, Photography, Filmmaking, and Event Planning. I hope to sharpen my skills within the browser to create websites and applications that can further the crafts of many like-minded artists in the industries I have been a part of. I want to turn as many concepts as possible into reality and push the scope of what's imaginable on the internet.</p>
+      <p className="lead mb-5">I'm a Full Stack Developer with a strong focus on crafting intuitive, expressive web experiences that bring ideas to life. With a few years of hands-on development and a background in teaching, I understand how to turn complex concepts into clean, usable interfaces. I’m passionate about building tools, platforms, and interactive content that not only work well but feel purposeful — helping teams and creatives push their work further on the web.</p>
       <div id='aboutMeSection'>
         <div className="social-icons">
         <a className="social-icon" href="http://www.linkedin.com/in/wonganifjere" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin-in"title="LinkedIn" /></a>
@@ -22,7 +22,7 @@ function About() {
         <a className="social-icon" href="https://www.instagram.com/jaypushcode/" target="_blank" rel="noopener noreferrer" ><i className="fab fa-instagram" title="Instagram"/></a>
         <a className="social-icon" href="https://twitter.com/JayPushCode" target="_blank" rel="noopener noreferrer"><i className="fab fa-twitter"title="Twitter" /></a>
       </div>
-      <a href={process.env.PUBLIC_URL + '/2024_WFJ_Resume.pdf'} target='_blank' rel="noopener noreferrer" download="Resume_WFJ_2024.pdf" title='Download My Resume'>
+      <a href={process.env.PUBLIC_URL + '/_WFJ_2025Resume.pdf'} target='_blank' rel="noopener noreferrer" download="_WFJ_Resume2025.pdf" title='Download My Resume'>
       <button> Download My Resume</button>
       </a>
       </div>
