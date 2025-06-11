@@ -29,6 +29,24 @@ function Experience() {
 
       <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
         <div className="flex-grow-1">
+          <h3 className="mb-0">REDCap Specialist </h3>
+          <div className="subheading mb-3"> Youth Villages</div>
+          <p> Improved data workflows by developing custom Python applications to streamline REDCap API interactions and CSV handling. Monitored data quality and survey response rates, delivering reports using SQL, Excel, REDCap, and Snowflake. Led training sessions on HTML, CSS, JavaScript, and SQL, and created technical documentation and exercises. Provided troubleshooting and support for REDCap while ensuring compliance with data governance and project timelines. </p>
+        </div>
+        <div className="flex-shrink-0"><span className="text-primary"> August 2024 - PRESENT </span></div>
+      </div>
+
+      <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
+        <div className="flex-grow-1">
+          <h3 className="mb-0">Teacher </h3>
+          <div className="subheading mb-3"> Digital Brilliance Hour </div>
+          <p> Collaborated with educators to deliver interactive classes on game development and music production for middle and high school students. Provided personalized guidance using a structured curriculum to ensure students grasped key concepts and gained practical skills. Assessed progress and offered constructive feedback to support continuous growth and creativity. </p>
+        </div>
+        <div className="flex-shrink-0"><span className="text-primary"> March 2024 - PRESENT </span></div>
+      </div>
+
+      <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
+        <div className="flex-grow-1">
           <h3 className="mb-0">Insurance Sales Representative</h3>
           <div className="subheading mb-3"> Bankers Life</div>
           <p>Financial Planning towards Retirement for all ages. Managed everything from health and medication costs, and planning for convalesent care. Also aided in estate and financial planning, working one-on-one with clients and their families both in-person and virtually. </p>
