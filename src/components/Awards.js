@@ -29,6 +29,10 @@ function Awards() {
           <span className="fa-li"><i className="fas fa-trophy text-warning" /></span>&nbsp;
           Trilogy Web Development Full-Stack Bootcamp
         </li>
+        <li>
+          <span className="fa-li"><i className="fas fa-trophy text-warning" /></span>&nbsp;
+          Google Cybersecurity
+        </li>
       </ul>
     </div>
   </section>
